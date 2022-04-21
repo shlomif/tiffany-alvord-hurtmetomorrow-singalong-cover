@@ -1,0 +1,3 @@
+Singalong cover of https://www.youtube.com/watch?v=n6KAGqjdmsk ( "Hurt Me Tomorrow - K'NAAN (Cover) Tiffany Alvord" ).
+
+Also see https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc and https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc .
